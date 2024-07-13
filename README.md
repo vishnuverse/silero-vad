@@ -3,7 +3,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snakers4/silero-vad/blob/master/silero-vad.ipynb)
 
 ![header](https://user-images.githubusercontent.com/12515440/89997349-b3523080-dc94-11ea-9906-ca2e8bc50535.png)
-
+<a href="https://huggingface.co/spaces/vishnuverse-in/silero-vad">
+    <img alt="HuggingFace Spaces" src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Spaces-blue" />
+  </a>
 <br/>
 <h1 align="center">Silero VAD</h1>
 <br/>
